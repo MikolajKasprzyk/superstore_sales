@@ -6,7 +6,7 @@ This repository contains a data analysis project on the "Superstore" dataset. Th
 
 The "superstore" dataset used in this project consists of sales data from a fictional retail superstore. It includes information such as order details, customer information, product categories, and sales performance.
 
-The dataset is available in the file `Superstore_sales.csv`. You can find the data in the `data` directory.
+The dataset is available in the file `superstore_sales.csv`. You can find the data in the `data` directory.
 
 ## Analysis
 
