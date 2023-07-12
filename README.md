@@ -46,7 +46,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 Special thanks to the creators of the "Superstore" dataset for providing a rich and realistic dataset for analysis.
 
 ## References
-
+- [Link to Tableau visualization:](https://public.tableau.com/app/profile/miko.aj.kasprzyk/viz/superstore_sales_16889208965170/Dashboard1)
 - [Link to the "superstore" dataset source](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
