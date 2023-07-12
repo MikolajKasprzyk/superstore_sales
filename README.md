@@ -32,6 +32,7 @@ Feel free to explore the notebooks and modify the code to further analyze the da
 ## Results
 
 The results of the analysis are presented in the notebooks as visualizations, tables, and descriptive insights. You can find the generated plots and outputs within the notebooks.
+Below you can also find link to Tableau visualization of this dataset.
 
 ## Contributing
 
