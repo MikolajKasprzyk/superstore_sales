@@ -43,11 +43,11 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## Acknowledgments
 
-Special thanks to the creators of the "superstore" dataset for providing a rich and realistic dataset for analysis.
+Special thanks to the creators of the "Superstore" dataset for providing a rich and realistic dataset for analysis.
 
 ## References
 
-- [Link to the "superstore" dataset source](https://www.kaggle.com/jayrav13/universal-dataset-superstore)
+- [Link to the "superstore" dataset source](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 - [Seaborn Documentation](https://seaborn.pydata.org/)
