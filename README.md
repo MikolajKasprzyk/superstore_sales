@@ -22,7 +22,7 @@ The analysis is performed using Python and popular data analysis libraries such 
 
 To run the analysis and reproduce the results, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/MikolajKasprzyk/superstore_sales.git`
+1. Clone the repository: 'https://github.com/MikolajKasprzyk/superstore_sales.git'
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Open the Jupyter notebooks in the `notebooks` directory.
 4. Execute the code cells in the notebooks to perform the analysis and generate visualizations.
