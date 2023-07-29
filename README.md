@@ -18,6 +18,9 @@ The project includes the following analyses:
 
 The analysis is performed using Python and popular data analysis libraries such as Pandas, Matplotlib, and Seaborn. The code for the analysis can be found in the `notebooks` directory.
 
+## Tablaeu visualization
+- [Link to Tableau visualization:](https://public.tableau.com/app/profile/miko.aj.kasprzyk/viz/superstore_sales_16889208965170/Dashboard1)
+
 ## Usage
 
 To run the analysis and reproduce the results, follow these steps:
